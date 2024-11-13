@@ -1,48 +1,29 @@
 ---
 layout: page
-title: NeurIPS Tutorial on Machine Learning for Theorem Proving
+title: AAAI Tutorial on Machine Learning for Solvers
 ---
-<div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+<!-- <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946"><strong>Video Recording</strong></a>
-</div>
+</div> -->
 
 
 
-<div class="sharethis-inline-share-buttons"></div>
-<meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
+<!-- <div class="sharethis-inline-share-buttons"></div>
+<meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
 
 
 # Overview
 
-Machine learning, especially large language models (LLMs), has shown promise
-in proving formal theorems using proof assistants such as [Coq](https://coq.inria.fr/), [Isabelle](https://isabelle.in.tum.de/), and [Lean](https://leanprover.github.io/). Theorem proving is an important challenge for machine learning: Formal proofs
-are computer programs whose correctness can be verified. Therefore, theorem
-proving is a form of code generation with rigorous evaluation and no room for
-the model to hallucinate, opening up a new avenue for addressing LLMs’ flaws
-in factuality. 
+Machine learning (ML) and logical reasoning have been the two foundational pillars of AI since its inception, yet it is only in the past decade that interactions between these fields have become increasingly prominent. Notably, ML has had a dramatic impact on SAT and SMT solvers, as demonstrated by the award-winning SATzilla, MapleSAT, and Z3alpha solvers. Our tutorial aims to inspire new interdisciplinary research by bridging the gap between ML and logical reasoning research communities. We will introduce the broader AI community to ML techniques that have been used in the context of logical reasoning, with a sharp focus on approaches that are successful and promising. The main topics we will discuss are algorithm selection, algorithm configuration, deep learning for representing logical reasoning, and reinforcement learning for branching heuristics.
 
-Despite its potential, learning-based theorem proving has significant
-entry barriers, primarily due to the steep learning curve for proof assistants. This
-tutorial aims to bridge this gap and make theorem proving accessible to researchers
-with a general machine learning background. To that end, our presentation will contextualize
-theorem proving from a machine learning perspective and demonstrate
-how to develop LLMs for theorem proving, using newly available open-source
-tools that provides interfaces to proof assistants without requiring in-depth knowledge
-of their internals. Furthermore, we will cover advanced topics and open
-problems in learning-based theorem proving, including its synergies with natural
-language processing and software verification. 
+Rather than pure end-to-end learning, successful ML approaches tend to be tightly integrated with symbolic solvers. The central thesis of our tutorial, supported by numerous successful cases, is that ML excels best when it is used to sequence, select, initialize, and configure proof/rewrite rules that solvers implement. One prominent example of this trend is the use of ML for learning branching heuristics, both online for particular instances using reinforcement learning (RL) and offline training a neural network policy over a distribution of instances. We will discuss a paradigmatic distinction between online and offline ML in solvers. In the former, learning occurs during the solving process of a particular instance, whereas in the latter, algorithmic design is learned offline across representative instances from a particular application. Both paradigms can be powerful in improving solver performance. 
 
-Throughout the presentation, we
-will highlight several conceptual themes recurring in theorem proving that are also
-critical for machine learning, such as mathematical reasoning, code generation,
-and hallucination prevention. The panel will complement the presentation through
-a broader discussion of related topics such as trustworthy machine learning, LLMs
-for code, reasoning, and program synthesis.
+Our tutorial assumes only a basic understanding of ML from the audience. We begin with essential backgrounds on logical solvers, followed by a classification of ML application paradigms for solvers, and then present successful applications in each paradigm. Additionally, we delve into the recent advancements in the end-to-end learning paradigm using graph neural networks (GNNs) to model logical formulae. The tutorial includes hands-on coding demonstrations of applying SMAC to fine-tune online learning parameters in MapleSAT, enabling participants to directly engage with the concepts discussed. We conclude with a panel discussion on how to leverage large language models (LLMs) for logical reasoning and how reasoning can make LLMs more trustworthy.
 
 <hr>
 
 
-# Presenters
+<!-- # Presenters
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.presenters %}
@@ -143,4 +124,4 @@ for code, reasoning, and program synthesis.
 </div>
 <hr>
 
-Contact: <machine.learning.4.theorem.proving@gmail.com>.
+Contact: <machine.learning.4.theorem.proving@gmail.com>. -->
