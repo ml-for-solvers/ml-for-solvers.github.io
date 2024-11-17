@@ -1,25 +1,25 @@
 vijay:
   name: "Vijay Ganesh"
   url: "https://www.cc.gatech.edu/people/vijay-ganesh"
-  affiliation: "Georgia Tech"
+  affiliation: "Professor, Georgia Tech"
   img: "Vijay_photo_cropped.jpg"
 kevin:
   name: "Kevin Leyton-Brown"
   url: "https://www.cs.ubc.ca/~kevinlb/"
-  affiliation: "University of British Columbia"
+  affiliation: "Professor, University of British Columbia"
   img: "Kevin_photo_cropped.jpg"
 chris:
   name: "Chris Cameron"
   url: "https://www.cs.ubc.ca/~cchris13/"
-  affiliation: "University of British Columbia"
+  affiliation: "PhD Student, University of British Columbia"
   img: "Chris_photo_cropped.jpeg"
 john:
   name: "John Zhengyang Lu"
   url: "https://johnlyu2.github.io/"
-  affiliation: "University of Waterloo"
+  affiliation: "PhD Student, University of Waterloo"
   img: "John_photo_cropped.JPG"
 piyush:
   name: "Piyush Jha"
   url: "https://piyush-j.github.io/"
-  affiliation: "Georgia Tech"
+  affiliation: "PhD Student, Georgia Tech"
   img: "Piyush_photo.jpg"
