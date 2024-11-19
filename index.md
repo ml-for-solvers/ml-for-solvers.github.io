@@ -21,10 +21,7 @@ Our tutorial assumes only a basic understanding of ML and begins with essential 
 
 Finally, we will have a panel discussion with leading experts to discuss the implications of LLMs for logical reasoning, a topic where opinions tend to be very polarized in the AI community. The panel will examine how effective LLMs might be for reasoning tasks and, conversely, how integrating formal logical reasoning could enhance the trustworthiness of LLMs.
 
-</div>
 <hr>
-
-<div id="presenters">
 
 # Presenters and Organizers
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
@@ -44,7 +41,6 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     {% endif %}
     {% endfor %}
   </div>
-</div>
 </div>
 <hr>
 
