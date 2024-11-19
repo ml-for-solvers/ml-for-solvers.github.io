@@ -10,6 +10,15 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
 <!-- <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
 
+<nav>
+    <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#tutorial">Tutorial</a></li>
+        <li><a href="#panel-discussion">Panel Discussion</a></li>
+        <li><a href="#presenters">Presenters</a></li>
+    </ul>
+</nav>
+
 # Overview
 
 Machine learning (ML) and logical reasoning have been the two foundational pillars of AI since its inception, yet it is only in the past decade that interactions between these fields have become increasingly prominent. Notably, ML has had a dramatic impact on SAT and SMT solvers, as demonstrated by the award-winning SATzilla, MapleSAT, and Z3alpha solvers. Our tutorial aims to inspire new interdisciplinary research by bridging the gap between ML and logical reasoning research communities. We will introduce the broader AI community to ML techniques that have been used in the context of logical reasoning solvers, with a sharp focus on approaches that are successful and promising. We will also host a panel discussion on how LLMs may shape this area going forward.
