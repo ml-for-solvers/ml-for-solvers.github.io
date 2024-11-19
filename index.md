@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AAAI Tutorial on Machine Learning for Solvers
+title: AAAI Tutorial on<br />Machine Learning for Solvers
 ---
 <!-- <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946"><strong>Video Recording</strong></a>
@@ -10,27 +10,6 @@ title: AAAI Tutorial on Machine Learning for Solvers
 
 <!-- <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
-
-<style>
-  .title {
-    text-align: center; /* Optional: Center align the text */
-    font-size: 24px; /* Optional: Adjust font size */
-  }
-</style>
-
-<div class="title">
-  AAAI Tutorial on<br />
-  Machine Learning for Solvers
-</div>
-
-<nav>
-  <ul>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#presenters">Presenters</a></li>
-  </ul>
-</nav>
-
-<div id="overview">
 
 # Overview
 
