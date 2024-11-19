@@ -11,8 +11,8 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
 <meta name="thumbnail" content="./img/AAAI-Logo-Title-FullColor.png" />
 
 <nav>
-    <a href="# Overview">Overview</a> |
-    <a href="# Presenters and Organizers">Presenters and Organizers</a> |
+    <a href="#overview">Overview</a> |
+    <a href="#presenters-and-organizers">Presenters and Organizers</a> |
 </nav>
 
 # Overview
