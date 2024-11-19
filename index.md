@@ -8,7 +8,7 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
 
 
 <div class="sharethis-inline-share-buttons"></div>
-<meta name="thumbnail" content="./img/AAAI-Logo-Title-FullColor.png" />
+<meta name="thumbnail" content="./img/aaai-small.jpeg" />
 
 <nav>
     <a href="#overview">Overview</a> |
