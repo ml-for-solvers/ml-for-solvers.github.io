@@ -11,12 +11,8 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
 
 <nav>
-    <ul>
-        <li><a href="#overview">Overview</a></li>
-        <li><a href="#tutorial">Tutorial</a></li>
-        <li><a href="#panel-discussion">Panel Discussion</a></li>
-        <li><a href="#presenters">Presenters</a></li>
-    </ul>
+    <a href="# Overview">Overview</a> |
+    <a href="# Presenters and Organizers">Presenters and Organizers</a> |
 </nav>
 
 # Overview
