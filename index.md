@@ -6,9 +6,16 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
   <a target="_blank" href="https://neurips.cc/virtual/2023/tutorial/73946"><strong>Video Recording</strong></a>
 </div> -->
 
+<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TH24">Philadelphia, 26 February 2025, 2–6 PM ET</a>
+</div>
+
+<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Register on the AAAI website</a>
+</div>
 
 <div class="sharethis-inline-share-buttons"></div>
-<meta name="thumbnail" content="./img/aaai-small.jpeg" />
+<meta name="thumbnail" content="https://ml-for-solvers.github.io/img/aaai-small.jpeg" />
 
 <nav>
     <a href="#overview">Overview</a> |
