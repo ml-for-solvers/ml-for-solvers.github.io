@@ -10,8 +10,8 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
   <strong><a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TH24">Philadelphia, 26 February 2025, 2–6 PM ET</a></strong>
 </div>
 
-<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong><a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Register on the official AAAI website</a></strong>
+<div class="venue" style="font-size: 20px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">(Please use this link to register on the official AAAI website)</a>
 </div>
 
 <div class="sharethis-inline-share-buttons"></div>
