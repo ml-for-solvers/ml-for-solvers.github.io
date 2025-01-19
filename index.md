@@ -18,21 +18,9 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
 <meta name="thumbnail" content="https://ml-for-solvers.github.io/img/aaai-small.jpeg" />
 
 <nav>
-    <a href="#overview">Overview</a> |
     <a href="#presenters-and-organizers">Presenters and Organizers</a> |
+    <a href="#overview">Overview</a> |
 </nav>
-
-# Overview
-
-Machine learning (ML) and logical reasoning have been the two foundational pillars of AI since its inception, yet it is only in the past decade that interactions between these fields have become increasingly prominent. Notably, ML has had a dramatic impact on SAT and SMT solvers, as demonstrated by the award-winning SATzilla, MapleSAT, and Z3alpha solvers. Our tutorial aims to inspire new interdisciplinary research by bridging the gap between ML and logical reasoning research communities. We will introduce the broader AI community to ML techniques that have been used in the context of logical reasoning solvers, with a sharp focus on approaches that are successful and promising. We will also host a panel discussion on how LLMs may shape this area going forward.
-
-Rather than pure end-to-end learning, successful ML approaches tend to be tightly integrated with symbolic solvers. The central thesis of our tutorial, supported by numerous successful cases, is that ML excels best when it is used to sequence, select, initialize, and configure proof/rewrite rules that solvers implement. One prominent example that we will highlight is the use of ML for learning branching heuristics, both online for particular instances using reinforcement learning (RL) and offline training a neural network policy across representative instances from a particular application. 
-
-Our tutorial assumes only a basic understanding of ML and begins with essential backgrounds on logical solvers. We explore the main ML-for-solving paradigms—algorithm selection, algorithm configuration, and reinforcement learning for heuristics—highlighting successful applications in each area. We also examine why graph neural networks (GNNs) are an appropriate architecture for modeling logical formulae with neural networks. We will conclude the tutorial section with a hands-on coding demonstration of how to configure a parameterized solver for a specific application, applying SMAC to fine-tune online learning parameters in MapleSAT. Participants are encouraged to bring their own solver and application to test whether this method could be effective for their own work. 
-
-Finally, we will have a panel discussion with leading experts to discuss the implications of LLMs for logical reasoning, a topic where opinions tend to be very polarized in the AI community. The panel will examine how effective LLMs might be for reasoning tasks and, conversely, how integrating formal logical reasoning could enhance the trustworthiness of LLMs.
-
-<hr>
 
 # Presenters and Organizers
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
@@ -53,6 +41,18 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     {% endfor %}
   </div>
 </div>
+<hr>
+
+# Overview
+
+Machine learning (ML) and logical reasoning have been the two foundational pillars of AI since its inception, yet it is only in the past decade that interactions between these fields have become increasingly prominent. Notably, ML has had a dramatic impact on SAT and SMT solvers, as demonstrated by the award-winning SATzilla, MapleSAT, and Z3alpha solvers. Our tutorial aims to inspire new interdisciplinary research by bridging the gap between ML and logical reasoning research communities. We will introduce the broader AI community to ML techniques that have been used in the context of logical reasoning solvers, with a sharp focus on approaches that are successful and promising. We will also host a panel discussion on how LLMs may shape this area going forward.
+
+Rather than pure end-to-end learning, successful ML approaches tend to be tightly integrated with symbolic solvers. The central thesis of our tutorial, supported by numerous successful cases, is that ML excels best when it is used to sequence, select, initialize, and configure proof/rewrite rules that solvers implement. One prominent example that we will highlight is the use of ML for learning branching heuristics, both online for particular instances using reinforcement learning (RL) and offline training a neural network policy across representative instances from a particular application. 
+
+Our tutorial assumes only a basic understanding of ML and begins with essential backgrounds on logical solvers. We explore the main ML-for-solving paradigms—algorithm selection, algorithm configuration, and reinforcement learning for heuristics—highlighting successful applications in each area. We also examine why graph neural networks (GNNs) are an appropriate architecture for modeling logical formulae with neural networks. We will conclude the tutorial section with a hands-on coding demonstration of how to configure a parameterized solver for a specific application, applying SMAC to fine-tune online learning parameters in MapleSAT. Participants are encouraged to bring their own solver and application to test whether this method could be effective for their own work. 
+
+Finally, we will have a panel discussion with leading experts to discuss the implications of LLMs for logical reasoning, a topic where opinions tend to be very polarized in the AI community. The panel will examine how effective LLMs might be for reasoning tasks and, conversely, how integrating formal logical reasoning could enhance the trustworthiness of LLMs.
+
 <hr>
 
 <!-- 
