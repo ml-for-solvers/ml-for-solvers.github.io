@@ -25,7 +25,7 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 </nav>
 
 # Registration
-<div class="venue" style="font-size: 20px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+<div class="venue" style="display: block;">
   <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Please use this link to register on the official AAAI website</a>
 </div>
 <hr>
