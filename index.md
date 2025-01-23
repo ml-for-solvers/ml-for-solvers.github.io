@@ -19,6 +19,7 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
 
 <nav>
     <a href="#presenters-and-organizers">Presenters and Organizers</a> |
+    <a href="#panelists">Panelists</a> |
     <a href="#overview">Overview</a> |
 </nav>
 
@@ -34,6 +35,27 @@ title: AAAI Tutorial on <br />Machine Learning for Solvers
   </div>
   <div class="row">
     {% for p in site.data.presenters %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index>5 and forloop.index<=10%}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+<hr>
+
+# Panelists
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  <div class="row">
+    {% for p in site.data.panelists %}
+    {% if forloop.index<=5 %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="row">
+    {% for p in site.data.panelists %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% if forloop.index>5 and forloop.index<=10%}
     {% include profile.html p=p %}
