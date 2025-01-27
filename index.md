@@ -18,19 +18,13 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 <meta name="thumbnail" content="https://ml-for-solvers.github.io/img/aaai-small.jpeg" />
 
 <nav>
+  <a href="#presenters">Presenters</a> |
+  <a href="#panelists-(more-to-come)">Panelists</a> |
+  <a href="#overview">Overview</a> |
   <a href="#registration">Registration</a> |
-    <a href="#presenters-and-organizers">Presenters and Organizers</a> |
-    <a href="#panelists">Panelists</a> |
-    <a href="#overview">Overview</a> |
 </nav>
 
-# Registration
-<div class="venue" style="display: block;">
-  <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Please use this link to register on the official AAAI website</a>
-</div>
-<hr>
-
-# Presenters and Organizers
+# Presenters
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.presenters %}
@@ -51,7 +45,7 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 </div>
 <hr>
 
-# Panelists
+# Panelists (more to come)
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.panelists %}
@@ -82,6 +76,12 @@ Our tutorial assumes only a basic understanding of ML and begins with essential 
 
 Finally, we will have a panel discussion with leading experts to discuss the implications of LLMs for logical reasoning, a topic where opinions tend to be very polarized in the AI community. The panel will examine how effective LLMs might be for reasoning tasks and, conversely, how integrating formal logical reasoning could enhance the trustworthiness of LLMs.
 
+<hr>
+
+# Registration
+<div class="venue" style="display: block;">
+  <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Please use this link to register on the official AAAI website</a>
+</div>
 <hr>
 
 <!-- 

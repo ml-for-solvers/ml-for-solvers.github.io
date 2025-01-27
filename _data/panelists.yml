@@ -1,18 +1,24 @@
-huan:
-  name: "Huan Zhang"
-  url: "https://huan-zhang.com/"
-  title: "Assistant Professor"
-  affiliation: "UIUC"
-  img: "Huan_Zhang_photo.jpg"
+vijay:
+  name: "Vijay Ganesh"
+  url: "https://www.cc.gatech.edu/people/vijay-ganesh"
+  title: "Moderator"
+  affiliation: ""
+  img: "Vijay_photo_cropped.jpg"
+kevin:
+  name: "Kevin Leyton-Brown"
+  url: "https://www.cs.ubc.ca/~kevinlb/"
+  title: "Moderator"
+  affiliation: ""
+  img: "Kevin_photo_cropped.jpg"
 xujie:
   name: "Xujie Si"
   url: "https://www.cs.toronto.edu/~six/"
   title: "Assistant Professor"
   affiliation: "UToronto"
   img: "xujie-si.jpeg.webp"
-vijay:
-  name: "Vijay Ganesh"
-  url: "https://www.cc.gatech.edu/people/vijay-ganesh"
-  title: "Professor"
-  affiliation: "Georgia Tech"
-  img: "Vijay_photo_cropped.jpg"
+huan:
+  name: "Huan Zhang"
+  url: "https://huan-zhang.com/"
+  title: "Assistant Professor"
+  affiliation: "UIUC"
+  img: "Huan_Zhang_photo.jpg"
