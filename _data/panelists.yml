@@ -16,6 +16,12 @@ xujie:
   title: "Assistant Professor"
   affiliation: "UToronto"
   img: "xujie-si.jpeg.webp"
+stefan:
+  name: "Stefan Szeider"
+  url: "https://www.ac.tuwien.ac.at/people/szeider/"
+  title: "Professor"
+  affiliation: "TU Wien"
+  img: "stefan-szeider.webp"
 huan:
   name: "Huan Zhang"
   url: "https://huan-zhang.com/"
