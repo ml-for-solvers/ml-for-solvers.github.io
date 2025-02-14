@@ -59,7 +59,7 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
   <div class="row">
     {% for p in site.data.panelists %}
     {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>5 and forloop.index<=10%}
+    {% if forloop.index>6 and forloop.index<=10%}
     {% include profile.html p=p %}
     {% endif %}
     {% endfor %}
@@ -81,36 +81,35 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 
 # Schedule
 <div class="container" style="margin-top: 25px; text-align: center;">
-  <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
+  <table style="width: 100%; max-width: 1000px; margin: auto; border-collapse: collapse; font-size: 18px;">
     <tr style="background-color: #f4f4f4;">
-      <th style="padding: 10px; border-bottom: 2px solid #ddd;">Time</th>
-      <th style="padding: 10px; border-bottom: 2px solid #ddd;">Session</th>
-      <th style="padding: 10px; border-bottom: 2px solid #ddd;">Presenter(s)</th>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Time</th>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Session</th>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Presenter(s)</th>
     </tr>
     <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">14:00 - 14:45</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Introduction, Background, and Online Reinforcement Learning for Solvers</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vijay Ganesh</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">14:00 - 14:45</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Introduction, Background, and Online Reinforcement Learning for Solvers</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Vijay Ganesh</td>
     </tr>
     <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">14:45 - 15:30</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Algorithm Selection and Configuration, with Hands-on Demonstration</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">John Lu, Piyush Jha</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">14:45 - 15:30</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Algorithm Selection and Configuration, with Hands-on Demonstration</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">John Lu, Piyush Jha</td>
     </tr>
-    <tr style="background-color: #f9f9f9; font-style: italic;">
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">15:30 - 16:00</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Coffee Break</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">-</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">16:00 - 16:50</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Deep Learning for Solvers</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Chris Cameron</td>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">15:30 - 16:00</td>
+      <td colspan="2" style="padding: 12px; border-bottom: 1px solid #ddd; font-style: italic; font-weight: bold; text-align: center;">Coffee Break ☕</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">17:00 - 18:00</td>
-      <td style="padding: 10px;">Panel Discussion: Bridging Learning and Reasoning via LLMs and Solvers</td>
-      <td style="padding: 10px;">Moderators: Kevin Leyton-Brown, Vijay Ganesh</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">16:00 - 16:50</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Deep Learning for Solvers</td>
+      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Chris Cameron</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;">17:00 - 18:00</td>
+      <td style="padding: 12px;">Panel Discussion: Bridging Learning and Reasoning via LLMs and Solvers</td>
+      <td style="padding: 12px;">Moderators: Kevin Leyton-Brown, Vijay Ganesh</td>
     </tr>
   </table>
 </div>
