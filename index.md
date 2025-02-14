@@ -19,8 +19,9 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 
 <nav>
   <a href="#presenters">Presenters</a> |
-  <a href="#panelists-(more-to-come)">Panelists</a> |
+  <a href="#panelists">Panelists</a> |
   <a href="#overview">Overview</a> |
+  <a href="#schedule">Schedule</a> |
   <a href="#registration">Registration</a> |
 </nav>
 
@@ -45,7 +46,7 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 </div>
 <hr>
 
-# Panelists (more to come)
+# Panelists
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.panelists %}
@@ -75,6 +76,44 @@ Rather than pure end-to-end learning, successful ML approaches tend to be tightl
 Our tutorial assumes only a basic understanding of ML and begins with essential backgrounds on logical solvers. We explore the main ML-for-solving paradigms—algorithm selection, algorithm configuration, and reinforcement learning for heuristics—highlighting successful applications in each area. We also examine why graph neural networks (GNNs) are an appropriate architecture for modeling logical formulae with neural networks. We will conclude the tutorial section with a hands-on coding demonstration of how to configure a parameterized solver for a specific application, applying SMAC to fine-tune online learning parameters in MapleSAT. Participants are encouraged to bring their own solver and application to test whether this method could be effective for their own work. 
 
 Finally, we will have a panel discussion with leading experts to discuss the implications of LLMs for logical reasoning, a topic where opinions tend to be very polarized in the AI community. The panel will examine how effective LLMs might be for reasoning tasks and, conversely, how integrating formal logical reasoning could enhance the trustworthiness of LLMs.
+
+<hr>
+
+# Schedule
+<div class="container" style="margin-top: 25px; text-align: center;">
+  <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
+    <tr style="background-color: #f4f4f4;">
+      <th style="padding: 10px; border-bottom: 2px solid #ddd;">Time</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd;">Session</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd;">Presenter(s)</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">14:00 - 14:45</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Introduction, Background, and Online Reinforcement Learning for Solvers</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vijay Ganesh</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">14:45 - 15:30</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Algorithm Selection and Configuration, with Hands-on Demonstration</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">John Lu, Piyush Jha</td>
+    </tr>
+    <tr style="background-color: #f9f9f9; font-style: italic;">
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">15:30 - 16:00</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Coffee Break</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">-</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">16:00 - 16:50</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Deep Learning for Solvers</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Chris Cameron</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">17:00 - 18:00</td>
+      <td style="padding: 10px;">Panel Discussion: Bridging Learning and Reasoning via LLMs and Solvers</td>
+      <td style="padding: 10px;">Moderators: Kevin Leyton-Brown, Vijay Ganesh</td>
+    </tr>
+  </table>
+</div>
 
 <hr>
 
