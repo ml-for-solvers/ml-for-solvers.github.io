@@ -4,18 +4,18 @@ vijay:
   title: "Moderator"
   affiliation: ""
   img: "Vijay_photo_cropped.jpg"
-kevin:
-  name: "Kevin Leyton-Brown"
-  url: "https://www.cs.ubc.ca/~kevinlb/"
-  title: "Moderator"
-  affiliation: ""
-  img: "Kevin_photo_cropped.jpg"
 subbarao:
   name: "Subbarao Kambhampati"
   url: "https://rakaposhi.eas.asu.edu/"
   title: "Professor"
   affiliation: "ASU"
   img: "rao-fall-colors-small-square.png"
+kevin:
+  name: "Kevin Leyton-Brown"
+  url: "https://www.cs.ubc.ca/~kevinlb/"
+  title: "Moderator"
+  affiliation: ""
+  img: "Kevin_photo_cropped.jpg"
 xujie:
   name: "Xujie Si"
   url: "https://www.cs.toronto.edu/~six/"
