@@ -81,7 +81,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 
 # Schedule
 <div class="container" style="margin-top: 25px; text-align: center;">
-  <table style="width: 100%; max-width: 1100px; margin: auto; border-collapse: collapse; font-size: 18px; line-height: 1.5;">
+  <table style="width: 100%; max-width: 1100px; margin: auto; border-collapse: collapse; font-size: 16px; line-height: 1.5;">
     <tr style="background-color: #f4f4f4;">
       <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left; width: 15%;">Time</th>
       <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left; width: 55%;">Session</th>
