@@ -81,7 +81,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 
 # Schedule
 <div class="container" style="margin-top: 15px; text-align: center;">
-  <table style="width: 100%; max-width: 1050px; margin: auto; border-collapse: collapse; font-size: 17px; line-height: 1.5;">
+  <table style="width: 100%; max-width: 1050px; margin: auto; border-collapse: collapse; font-size: 17px; line-height: 1.6;">
     <tr style="background-color: #f8f8f8; font-weight: bold;">
       <th style="padding: 10px; text-align: left; width: 12%;">Time</th>
       <th style="padding: 10px; text-align: left; width: 58%;">Session</th>
@@ -98,8 +98,8 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
       <td style="padding: 10px;">John Lu, Piyush Jha</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">15:30 - 16:00</td>
-      <td colspan="2" style="padding: 10px; font-style: italic; font-weight: bold; text-align: center;">Coffee Break</td>
+      <td style="padding: 10px;"></td>
+      <td colspan="2" style="padding: 12px; font-style: italic; font-weight: bold; text-align: center;">Coffee Break</td>
     </tr>
     <tr>
       <td style="padding: 10px;">16:00 - 16:50</td>
@@ -115,7 +115,6 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 </div>
 
 <hr>
-
 
 # Registration
 <div class="venue" style="display: block;">
