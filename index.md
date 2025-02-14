@@ -81,11 +81,11 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 
 # Schedule
 <div class="container" style="margin-top: 25px; text-align: center;">
-  <table style="width: 100%; max-width: 1000px; margin: auto; border-collapse: collapse; font-size: 18px; line-height: 1.5;">
+  <table style="width: 100%; max-width: 1100px; margin: auto; border-collapse: collapse; font-size: 18px; line-height: 1.5;">
     <tr style="background-color: #f4f4f4;">
       <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left; width: 15%;">Time</th>
-      <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left;">Session</th>
-      <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left; width: 25%;">Presenter(s)</th>
+      <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left; width: 55%;">Session</th>
+      <th style="padding: 12px; border-bottom: 2px solid #bbb; text-align: left; width: 30%;">Presenter(s)</th>
     </tr>
     <tr>
       <td style="padding: 14px; border-bottom: 1px solid #ddd;">14:00 - 14:45</td>
@@ -99,8 +99,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     </tr>
     <tr style="background-color: #f9f9f9;">
       <td style="padding: 14px; border-bottom: 1px solid #ddd;">15:30 - 16:00</td>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd; font-style: italic; font-weight: bold; text-align: left;">☕ Coffee Break</td>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">-</td>
+      <td colspan="2" style="padding: 14px; border-bottom: 1px solid #ddd; font-style: italic; font-weight: bold; text-align: center;">☕ Coffee Break</td>
     </tr>
     <tr>
       <td style="padding: 14px; border-bottom: 1px solid #ddd;">16:00 - 16:50</td>
@@ -116,6 +115,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 </div>
 
 <hr>
+
 
 # Registration
 <div class="venue" style="display: block;">
