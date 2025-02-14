@@ -50,7 +50,7 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.panelists %}
-    {% if forloop.index<=5 %}
+    {% if forloop.index<=6 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endif %}
