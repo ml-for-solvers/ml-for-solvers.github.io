@@ -80,6 +80,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 <hr>
 
 # Schedule
+
 <div class="container" style="margin-top: 15px; text-align: center;">
   <table style="width: 100%; max-width: 1050px; margin: auto; border-collapse: collapse; font-size: 17px; line-height: 1.5;">
     <tr style="font-weight: bold;">
@@ -117,6 +118,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 <hr>
 
 # Registration
+
 <div class="venue" style="display: block;">
   <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Please use this link to register on the official AAAI website</a>
 </div>
