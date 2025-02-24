@@ -7,7 +7,11 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
 </div> -->
 
 <div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  <strong>Philadelphia, 26 February 2025, 2–6 PM ET</strong>
+  <strong>Room 118A, <a target="_blank" href="https://g.co/kgs/jLhwXps">Pennsylvania Convention Center</a>, Philadelphia</strong>
+</div>
+
+<div class="venue" style="font-size: 24px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+  <strong>26 February 2025, 2–6 PM ET</strong>
 </div>
 
 <div class="venue" style="font-size: 20px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
@@ -109,7 +113,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     </tr>
     <tr>
       <td style="padding: 10px;">17:00 - 18:00</td>
-      <td style="padding: 10px;">Panel Discussion: Bridging Learning and Reasoning via LLMs and Solvers</td>
+      <td style="padding: 10px;">Panel Discussion: Bridging Learning and Reasoning via LLMs and Solvers (Panelists: Subbarao Kambhampati, Xujie Si, Stefan Szeider, Huan Zhang)</td>
       <td style="padding: 10px;">Moderators: Kevin Leyton-Brown, Vijay Ganesh</td>
     </tr>
   </table>
