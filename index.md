@@ -27,6 +27,7 @@ title: AAAI 2025 Tutorial <br />Machine Learning for Solvers
   <a href="#overview">Overview</a> |
   <a href="#schedule">Schedule</a> |
   <a href="#registration">Registration</a> |
+  <a href="#papers-and-tools">Papers and Tools</a> |
 </nav>
 
 # Presenters
@@ -127,6 +128,30 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
   <a target="_blank" href="https://aaai.org/conference/aaai/aaai-25/registration/">Please use this link to register on the official AAAI website</a>
 </div>
 <hr>
+
+# Papers and Tools
+
+- [AlphaMapleSAT](https://arxiv.org/abs/2401.13770)  
+  - Jha, P.; Li, Z.; Lu, Z.; Bright, C.; and Ganesh, V. 2024. AlphaMapleSAT: An MCTS-based Cube-and-Conquer SAT Solver for Hard Combinatorial Problems. *arXiv preprint arXiv:2401.13770*.
+
+- [MCFS](https://github.com/ChrisCameron1/MCFS)  
+  - Cameron, C.; Hartford, J.; Lundy, T.; Truong, T.; Milligan, A.; Chen, R.; and Leyton-Brown, K. 2024. UNSAT Solver Synthesis via Monte Carlo Forest Search. *In International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research*, 170–189. Springer.
+
+- [MapleSAT](https://maplesat.github.io/)  
+  - Liang, J. H.; Ganesh, V.; Poupart, P.; and Czarnecki, K. 2016. Learning rate based branching heuristic for SAT solvers. *In Theory and Applications of Satisfiability Testing–SAT 2016: 19th International Conference*, Bordeaux, France, July 5-8, 2016, Proceedings 19, 123–140. Springer.
+
+- [ParamILS](https://www.cs.ubc.ca/labs/algorithms/Projects/ParamILS/)  
+  - Hutter, F.; Hoos, H. H.; Leyton-Brown, K.; and Stutzle, T. 2009. ParamILS: An Automatic Algorithm Configuration Framework. *JAIR*, 36: 267–306.
+
+- [SATzilla](https://arxiv.org/abs/1111.2249)  
+  - Xu, L.; Hutter, F.; Hoos, H. H.; and Leyton-Brown, K. 2008. SATzilla: portfolio-based algorithm selection for SAT. *Journal of Artificial Intelligence Research*, 32: 565–606.
+
+- [SMAC](https://github.com/automl/SMAC3)  
+  - Hutter, F.; Xu, L.; Hoos, H. H.; and Leyton-Brown, K. 2014. Algorithm runtime prediction: methods & evaluation. *Artificial Intelligence*, 206: 79–111.
+
+- [Z3alpha](https://github.com/JohnLyu2/z3alpha)  
+  - Lu, Z.; Siemer, S.; Jha, P.; Day, J.; Manea, F.; and Ganesh, V. 2024. Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis. *In Larson, K., ed., Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24*, 1907–1915. International Joint Conferences on Artificial Intelligence Organization.
+
 
 <!-- 
 # Panelists
