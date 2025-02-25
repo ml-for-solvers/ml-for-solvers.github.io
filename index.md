@@ -134,6 +134,15 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
 - [AlphaMapleSAT](https://arxiv.org/abs/2401.13770)  
   - Jha, P.; Li, Z.; Lu, Z.; Bright, C.; and Ganesh, V. 2024. AlphaMapleSAT: An MCTS-based Cube-and-Conquer SAT Solver for Hard Combinatorial Problems. *arXiv preprint arXiv:2401.13770*.
 
+- [Btor2-Select](https://gitlab.com/sosy-lab/software/btor2-select)  
+  - Lu, Z.; Chien, P.; Lee, N.; and Ganesh, V. 2025. Algorithm selection for word-level hardware model checking (student abstract). *AAAI 2025*.
+
+- [Goose](https://goosesolver.github.io/)  
+  - Scott, J.; Pan, G.; Khalil, E. B.; and Ganesh, V. 2022, August. Goose: A Meta-Solver for Deep Neural Network Verification. *In SMT*, 99–113.
+
+- [MachSMT](https://machsmt.github.io/)  
+  - Scott, J.; Niemetz, A.; Preiner, M.; Nejati, S.; and Ganesh, V. 2021, March. MachSMT: A machine learning-based algorithm selector for SMT solvers. *In International Conference on Tools and Algorithms for the Construction and Analysis of Systems*, 303–325. Cham: Springer International Publishing.
+
 - [MCFS](https://github.com/ChrisCameron1/MCFS)  
   - Cameron, C.; Hartford, J.; Lundy, T.; Truong, T.; Milligan, A.; Chen, R.; and Leyton-Brown, K. 2024. UNSAT Solver Synthesis via Monte Carlo Forest Search. *In International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research*, 170–189. Springer.
 
