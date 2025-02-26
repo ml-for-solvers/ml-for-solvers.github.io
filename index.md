@@ -109,7 +109,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     </tr>
     <tr>
       <td style="padding: 10px;">16:00 - 16:50</td>
-      <td style="padding: 10px;">Deep Learning for Solvers</td>
+      <td style="padding: 10px;">Deep Learning for Solvers [<a href="https://drive.google.com/file/d/1ubenUBDHQhoT1km5gF-bGKi7z8kQrDwy/view?usp=sharing">Slides</a>]</td>
       <td style="padding: 10px;">Chris Cameron</td>
     </tr>
     <tr>
