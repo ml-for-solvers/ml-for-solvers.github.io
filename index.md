@@ -95,12 +95,12 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     </tr>
     <tr>
       <td style="padding: 10px;">14:00 - 14:45</td>
-      <td style="padding: 10px;">Introduction, Background, and Online Reinforcement Learning for Solvers</td>
+      <td style="padding: 10px;">[Introduction, Background, and Online Reinforcement Learning for Solvers](https://docs.google.com/presentation/d/1muSL9TGqe45uZzI803IO3Bu4sNgOKCba/edit?usp=sharing&ouid=117676940067056675826&rtpof=true&sd=true)</td>
       <td style="padding: 10px;">Vijay Ganesh</td>
     </tr>
     <tr>
       <td style="padding: 10px;">14:45 - 15:30</td>
-      <td style="padding: 10px;">Algorithm Selection and Configuration, with Hands-on Demonstration</td>
+      <td style="padding: 10px;">Algorithm Selection and Configuration, with [Hands-on Demonstration](https://colab.research.google.com/drive/1hx8JAsGjtzllOWjZpULir8i_7qua-UOw?usp=sharing)</td>
       <td style="padding: 10px;">John Lu, Piyush Jha</td>
     </tr>
     <tr>
