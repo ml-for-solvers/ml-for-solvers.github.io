@@ -100,7 +100,7 @@ Finally, we will have a panel discussion with leading experts to discuss the imp
     </tr>
     <tr>
       <td style="padding: 10px;">14:45 - 15:30</td>
-      <td style="padding: 10px;">Algorithm Selection and Configuration, with Hands-on Demonstration [<a href="https://colab.research.google.com/drive/1hx8JAsGjtzllOWjZpULir8i_7qua-UOw?usp=sharing">Colab</a>]</td>
+      <td style="padding: 10px;">Algorithm Selection and Configuration, with Hands-on Demonstration [<a href="https://docs.google.com/presentation/d/1cvhm6J-viT0IZb4XRY3cym7FzPjHpfUB/edit?usp=sharing&ouid=117676940067056675826&rtpof=true&sd=true">Slides</a>, <a href="https://colab.research.google.com/drive/1hx8JAsGjtzllOWjZpULir8i_7qua-UOw?usp=sharing">Colab</a>]</td>
       <td style="padding: 10px;">John Lu, Piyush Jha</td>
     </tr>
     <tr>
